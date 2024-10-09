@@ -1,6 +1,6 @@
 ## Olá 😁
 
-![Renata's GitHub stats](https://github-readme-stats.vercel.app/api?username=renataa-b&show_icons=true&theme=transparent)
+
 
  <div>
    <a href="https://github.com/renataa-b">
